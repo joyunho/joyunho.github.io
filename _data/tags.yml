@@ -1,0 +1,8 @@
+Webhacking:
+  name: webhacking
+  description: False
+  cover: assets/built/images/background-frontend.png
+AndroidApp:
+  name: androidapp
+  description: False
+  cover: assets/built/images/background-frontend.png
