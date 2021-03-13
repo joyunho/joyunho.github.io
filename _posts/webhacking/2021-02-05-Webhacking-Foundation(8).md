@@ -1,13 +1,13 @@
 ---
 layout: post
 current: post
-cover:  assets/built/images/Webhacking_logo.jpg
+cover: assets/built/images/Webhacking_logo.jpg
 navigation: True
 title: Webhacking_Foundation(8)
 date: 2021-02-05 16:23:00 +0900
 tags: [Webhacking]
 class: post-template
-subclass: 'post tag-python'
+subclass: "post tag-python"
 author: JoHo
 ---
 
@@ -21,5 +21,4 @@ author: JoHo
 
 <a href='https://github.com/joyunho/css'>**css**</a>
 
-<span style="color:#ff9b15; background-color:#2b2b2b; font-weight:bold;"> END</span>
----
+## <span style="color:#ff9b15; background-color:#2b2b2b; font-weight:bold;"> END</span>
