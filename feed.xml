@@ -1,8 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://joyunho.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://joyunho.github.io/" rel="alternate" type="text/html" /><updated>2021-03-13T19:00:05+09:00</updated><id>https://joyunho.github.io/</id><title type="html">IT Self-Development Blog</title><subtitle>IT 공부 정리 블로그</subtitle><entry><title type="html">Webhacking_Assemble</title><link href="https://joyunho.github.io/Webhacking-Assemble" rel="alternate" type="text/html" title="Webhacking_Assemble" /><published>2021-03-13T14:45:00+09:00</published><updated>2021-03-13T14:45:00+09:00</updated><id>https://joyunho.github.io/Webhacking-Assemble</id><content type="html" xml:base="https://joyunho.github.io/Webhacking-Assemble">&lt;p&gt;&amp;lt;span class=”table-of-contents-list”&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Webhacking 강좌는 여러 절로 구성되어 있습니다.
-&amp;lt;/span&amp;gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://joyunho.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://joyunho.github.io/" rel="alternate" type="text/html" /><updated>2021-06-01T22:29:42+09:00</updated><id>https://joyunho.github.io/</id><title type="html">IT Self-Development Blog</title><subtitle>IT 공부 정리 블로그</subtitle><entry><title type="html">YunHo-Workspace</title><link href="https://joyunho.github.io/YunHo-Workspace" rel="alternate" type="text/html" title="YunHo-Workspace" /><published>2021-06-01T22:20:00+09:00</published><updated>2021-06-01T22:20:00+09:00</updated><id>https://joyunho.github.io/YunHo-Workspace</id><content type="html" xml:base="https://joyunho.github.io/YunHo-Workspace">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Android 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./Android-App&quot;&gt;Android_App&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./Androidapp-JoyInstragram(1)&quot;&gt;Androidapp-JoyInstragram(1)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/76092057/120331097-6412e480-c328-11eb-819d-53e5b1ff4c4c.jpg&quot; alt=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/76092057/120331144-6ffea680-c328-11eb-9026-beda8787575a.jpg&quot; alt=&quot;2&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/76092057/120331166-74c35a80-c328-11eb-941a-58c79f50ccbb.jpg&quot; alt=&quot;3&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/76092057/120331183-78ef7800-c328-11eb-987f-7e318df1e5c1.jpg&quot; alt=&quot;4&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/76092057/120331198-7db42c00-c328-11eb-9856-76a643fbdf5d.jpg&quot; alt=&quot;5&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;6월 -&amp;gt; HTML, CSS, 바닐라 JS ==&amp;gt; 기간 2주 + 블로그 활성화 + 일 찾아보기 및 하기 위한 개념 공부
+7월 -&amp;gt; 무료 일(프로젝트 : ex. 레스토랑 예약 사이트) 시작
+8월 -&amp;gt; 무료 일(프로젝트 : ex. 레스토랑 예약 사이트) + sqld 신청
+9월 -&amp;gt; 구직활동 시작 + 꾸준히 자신이 만든 사이트 유지 보수 :: 깃허브에 정리 + sqld 시험
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>YunHo Jo</name></author><category term="AndroidApp" /><summary type="html">Android 강좌는 여러 절로 구성되어 있습니다. Android_App Androidapp-JoyInstragram(1)</summary></entry><entry><title type="html">Webhacking_Assemble</title><link href="https://joyunho.github.io/Webhacking-Assemble" rel="alternate" type="text/html" title="Webhacking_Assemble" /><published>2021-03-13T14:45:00+09:00</published><updated>2021-03-13T14:45:00+09:00</updated><id>https://joyunho.github.io/Webhacking-Assemble</id><content type="html" xml:base="https://joyunho.github.io/Webhacking-Assemble">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;
+  Webhacking 강좌는 여러 절로 구성되어 있습니다.
+&lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
@@ -104,11 +124,9 @@ Ex. &lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bo
     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>YunHo Jo</name></author><category term="Webhacking" /><summary type="html">&amp;lt;span class=”table-of-contents-list” Webhacking 강좌는 여러 절로 구성되어 있습니다. &amp;lt;/span&amp;gt; Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary></entry><entry><title type="html">Webhacking_Foundation(8)</title><link href="https://joyunho.github.io/Webhacking-Foundation(8)" rel="alternate" type="text/html" title="Webhacking_Foundation(8)" /><published>2021-02-05T16:23:00+09:00</published><updated>2021-02-05T16:23:00+09:00</updated><id>https://joyunho.github.io/Webhacking-Foundation(8)</id><content type="html" xml:base="https://joyunho.github.io/Webhacking-Foundation(8)">&lt;p&gt;&amp;lt;span class=”table-of-contents-list”&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Webhacking 강좌는 여러 절로 구성되어 있습니다.
-&amp;lt;/span&amp;gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>YunHo Jo</name></author><category term="Webhacking" /><summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary></entry><entry><title type="html">Webhacking_Foundation(8)</title><link href="https://joyunho.github.io/Webhacking-Foundation(8)" rel="alternate" type="text/html" title="Webhacking_Foundation(8)" /><published>2021-02-05T16:23:00+09:00</published><updated>2021-02-05T16:23:00+09:00</updated><id>https://joyunho.github.io/Webhacking-Foundation(8)</id><content type="html" xml:base="https://joyunho.github.io/Webhacking-Foundation(8)">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;
+  Webhacking 강좌는 여러 절로 구성되어 있습니다.
+&lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
@@ -132,11 +150,9 @@ Ex. &lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bo
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/joyunho/css&quot;&gt;&lt;strong&gt;css&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;-end&quot;&gt;&lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bold;&quot;&gt; END&lt;/span&gt;&lt;/h2&gt;</content><author><name>YunHo Jo</name></author><category term="Webhacking" /><summary type="html">&amp;lt;span class=”table-of-contents-list” Webhacking 강좌는 여러 절로 구성되어 있습니다. &amp;lt;/span&amp;gt; Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary></entry><entry><title type="html">Webhacking_Foundation(7)</title><link href="https://joyunho.github.io/Webhacking-Foundation(7)" rel="alternate" type="text/html" title="Webhacking_Foundation(7)" /><published>2021-02-03T14:36:00+09:00</published><updated>2021-02-03T14:36:00+09:00</updated><id>https://joyunho.github.io/Webhacking-Foundation(7)</id><content type="html" xml:base="https://joyunho.github.io/Webhacking-Foundation(7)">&lt;p&gt;&amp;lt;span class=”table-of-contents-list”&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Webhacking 강좌는 여러 절로 구성되어 있습니다.
-&amp;lt;/span&amp;gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h2 id=&quot;-end&quot;&gt;&lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bold;&quot;&gt; END&lt;/span&gt;&lt;/h2&gt;</content><author><name>YunHo Jo</name></author><category term="Webhacking" /><summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary></entry><entry><title type="html">Webhacking_Foundation(7)</title><link href="https://joyunho.github.io/Webhacking-Foundation(7)" rel="alternate" type="text/html" title="Webhacking_Foundation(7)" /><published>2021-02-03T14:36:00+09:00</published><updated>2021-02-03T14:36:00+09:00</updated><id>https://joyunho.github.io/Webhacking-Foundation(7)</id><content type="html" xml:base="https://joyunho.github.io/Webhacking-Foundation(7)">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;
+  Webhacking 강좌는 여러 절로 구성되어 있습니다.
+&lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
@@ -1009,11 +1025,9 @@ ex3.html에 기능하는 부분을 함수로 만들면 이러한 기능을 손�
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;h2 id=&quot;-end&quot;&gt;&lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bold;&quot;&gt; END&lt;/span&gt;&lt;/h2&gt;</content><author><name>YunHo Jo</name></author><category term="Webhacking" /><summary type="html">&amp;lt;span class=”table-of-contents-list” Webhacking 강좌는 여러 절로 구성되어 있습니다. &amp;lt;/span&amp;gt; Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary></entry><entry><title type="html">Webhacking_Foundation(6)</title><link href="https://joyunho.github.io/Webhacking-Foundation(6)" rel="alternate" type="text/html" title="Webhacking_Foundation(6)" /><published>2021-02-02T15:36:00+09:00</published><updated>2021-02-02T15:36:00+09:00</updated><id>https://joyunho.github.io/Webhacking-Foundation(6)</id><content type="html" xml:base="https://joyunho.github.io/Webhacking-Foundation(6)">&lt;p&gt;&amp;lt;span class=”table-of-contents-list”&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Webhacking 강좌는 여러 절로 구성되어 있습니다.
-&amp;lt;/span&amp;gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h2 id=&quot;-end&quot;&gt;&lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bold;&quot;&gt; END&lt;/span&gt;&lt;/h2&gt;</content><author><name>YunHo Jo</name></author><category term="Webhacking" /><summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary></entry><entry><title type="html">Webhacking_Foundation(6)</title><link href="https://joyunho.github.io/Webhacking-Foundation(6)" rel="alternate" type="text/html" title="Webhacking_Foundation(6)" /><published>2021-02-02T15:36:00+09:00</published><updated>2021-02-02T15:36:00+09:00</updated><id>https://joyunho.github.io/Webhacking-Foundation(6)</id><content type="html" xml:base="https://joyunho.github.io/Webhacking-Foundation(6)">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;
+  Webhacking 강좌는 여러 절로 구성되어 있습니다.
+&lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
@@ -1482,11 +1496,9 @@ ex3.html 파일을 활용하여 링크의 색을 바꾸려고 한다.&lt;/p&gt;
 &lt;p&gt;&lt;i class=&quot;fa fa-hand-o-right&quot; style=&quot;color:#008080&quot;&gt;&lt;/i&gt;  &amp;lt;&lt;strong&gt;결과&lt;/strong&gt;&amp;gt;
 &lt;img src=&quot;https://user-images.githubusercontent.com/76092057/106666931-949d7880-65eb-11eb-9021-d1edd521e470.PNG&quot; alt=&quot;JS 배열과 반복문 활용 최종본&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;-end&quot;&gt;&lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bold;&quot;&gt; END&lt;/span&gt;&lt;/h2&gt;</content><author><name>YunHo Jo</name></author><category term="Webhacking" /><summary type="html">&amp;lt;span class=”table-of-contents-list” Webhacking 강좌는 여러 절로 구성되어 있습니다. &amp;lt;/span&amp;gt; Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary></entry><entry><title type="html">Webhacking_Foundation(5)</title><link href="https://joyunho.github.io/Webhacking-Foundation(5)" rel="alternate" type="text/html" title="Webhacking_Foundation(5)" /><published>2021-02-01T14:22:00+09:00</published><updated>2021-02-01T14:22:00+09:00</updated><id>https://joyunho.github.io/Webhacking-Foundation(5)</id><content type="html" xml:base="https://joyunho.github.io/Webhacking-Foundation(5)">&lt;p&gt;&amp;lt;span class=”table-of-contents-list”&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Webhacking 강좌는 여러 절로 구성되어 있습니다.
-&amp;lt;/span&amp;gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h2 id=&quot;-end&quot;&gt;&lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bold;&quot;&gt; END&lt;/span&gt;&lt;/h2&gt;</content><author><name>YunHo Jo</name></author><category term="Webhacking" /><summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary></entry><entry><title type="html">Webhacking_Foundation(5)</title><link href="https://joyunho.github.io/Webhacking-Foundation(5)" rel="alternate" type="text/html" title="Webhacking_Foundation(5)" /><published>2021-02-01T14:22:00+09:00</published><updated>2021-02-01T14:22:00+09:00</updated><id>https://joyunho.github.io/Webhacking-Foundation(5)</id><content type="html" xml:base="https://joyunho.github.io/Webhacking-Foundation(5)">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;
+  Webhacking 강좌는 여러 절로 구성되어 있습니다.
+&lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
@@ -2038,11 +2050,9 @@ ex.3 파일을 활용하여 리팩토링하기&lt;/p&gt;
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;h2 id=&quot;-end&quot;&gt;&lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bold;&quot;&gt; END&lt;/span&gt;&lt;/h2&gt;</content><author><name>YunHo Jo</name></author><category term="Webhacking" /><summary type="html">&amp;lt;span class=”table-of-contents-list” Webhacking 강좌는 여러 절로 구성되어 있습니다. &amp;lt;/span&amp;gt; Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary></entry><entry><title type="html">Webhacking_Foundation(4)</title><link href="https://joyunho.github.io/Webhacking-Foundation(4)" rel="alternate" type="text/html" title="Webhacking_Foundation(4)" /><published>2021-01-31T15:43:00+09:00</published><updated>2021-01-31T15:43:00+09:00</updated><id>https://joyunho.github.io/Webhacking-Foundation(4)</id><content type="html" xml:base="https://joyunho.github.io/Webhacking-Foundation(4)">&lt;p&gt;&amp;lt;span class=”table-of-contents-list”&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Webhacking 강좌는 여러 절로 구성되어 있습니다.
-&amp;lt;/span&amp;gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h2 id=&quot;-end&quot;&gt;&lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bold;&quot;&gt; END&lt;/span&gt;&lt;/h2&gt;</content><author><name>YunHo Jo</name></author><category term="Webhacking" /><summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary></entry><entry><title type="html">Webhacking_Foundation(4)</title><link href="https://joyunho.github.io/Webhacking-Foundation(4)" rel="alternate" type="text/html" title="Webhacking_Foundation(4)" /><published>2021-01-31T15:43:00+09:00</published><updated>2021-01-31T15:43:00+09:00</updated><id>https://joyunho.github.io/Webhacking-Foundation(4)</id><content type="html" xml:base="https://joyunho.github.io/Webhacking-Foundation(4)">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;
+  Webhacking 강좌는 여러 절로 구성되어 있습니다.
+&lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
@@ -2349,11 +2359,9 @@ FROM 테이블이름        // SELECT 구문 형식
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;h2 id=&quot;-end&quot;&gt;&lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bold;&quot;&gt; END&lt;/span&gt;&lt;/h2&gt;</content><author><name>YunHo Jo</name></author><category term="Webhacking" /><summary type="html">&amp;lt;span class=”table-of-contents-list” Webhacking 강좌는 여러 절로 구성되어 있습니다. &amp;lt;/span&amp;gt; Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary></entry><entry><title type="html">Webhacking_Foundation(3)</title><link href="https://joyunho.github.io/Webhacking-Foundation(3)" rel="alternate" type="text/html" title="Webhacking_Foundation(3)" /><published>2021-01-28T18:07:00+09:00</published><updated>2021-01-28T18:07:00+09:00</updated><id>https://joyunho.github.io/Webhacking-Foundation(3)</id><content type="html" xml:base="https://joyunho.github.io/Webhacking-Foundation(3)">&lt;p&gt;&amp;lt;span class=”table-of-contents-list”&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Webhacking 강좌는 여러 절로 구성되어 있습니다.
-&amp;lt;/span&amp;gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h2 id=&quot;-end&quot;&gt;&lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bold;&quot;&gt; END&lt;/span&gt;&lt;/h2&gt;</content><author><name>YunHo Jo</name></author><category term="Webhacking" /><summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary></entry><entry><title type="html">Webhacking_Foundation(3)</title><link href="https://joyunho.github.io/Webhacking-Foundation(3)" rel="alternate" type="text/html" title="Webhacking_Foundation(3)" /><published>2021-01-28T18:07:00+09:00</published><updated>2021-01-28T18:07:00+09:00</updated><id>https://joyunho.github.io/Webhacking-Foundation(3)</id><content type="html" xml:base="https://joyunho.github.io/Webhacking-Foundation(3)">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;
+  Webhacking 강좌는 여러 절로 구성되어 있습니다.
+&lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
@@ -2580,17 +2588,15 @@ GET 메소드를 이용하여 PHP 코드를 만든 다음, URL 파라미터에 �
   &lt;p&gt;int x = 100;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h2 id=&quot;-end&quot;&gt;&lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bold;&quot;&gt; END&lt;/span&gt;&lt;/h2&gt;</content><author><name>YunHo Jo</name></author><category term="Webhacking" /><summary type="html">&amp;lt;span class=”table-of-contents-list” Webhacking 강좌는 여러 절로 구성되어 있습니다. &amp;lt;/span&amp;gt; Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary></entry><entry><title type="html">Androidapp-JoyInstragram(1)</title><link href="https://joyunho.github.io/Androidapp-JoyInstragram(1)" rel="alternate" type="text/html" title="Androidapp-JoyInstragram(1)" /><published>2021-01-25T03:46:00+09:00</published><updated>2021-01-25T03:46:00+09:00</updated><id>https://joyunho.github.io/Androidapp-JoyInstragram(1)</id><content type="html" xml:base="https://joyunho.github.io/Androidapp-JoyInstragram(1)">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Android 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;-end&quot;&gt;&lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bold;&quot;&gt; END&lt;/span&gt;&lt;/h2&gt;</content><author><name>YunHo Jo</name></author><category term="Webhacking" /><summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary></entry><entry><title type="html">Androidapp-JoyInstragram(1)</title><link href="https://joyunho.github.io/Androidapp-JoyInstragram(1)" rel="alternate" type="text/html" title="Androidapp-JoyInstragram(1)" /><published>2021-01-25T03:46:00+09:00</published><updated>2021-01-25T03:46:00+09:00</updated><id>https://joyunho.github.io/Androidapp-JoyInstragram(1)</id><content type="html" xml:base="https://joyunho.github.io/Androidapp-JoyInstragram(1)">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Android 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
     &lt;li&gt;&lt;a href=&quot;./Android-App&quot;&gt;Android_App&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./Androidapp-JoyInstragram(1)&quot;&gt;Androidapp-JoyInstragram(1)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;hr /&gt;</content><author><name>YunHo Jo</name></author><category term="AndroidApp" /><summary type="html">Android 강좌는 여러 절로 구성되어 있습니다. Android_App Androidapp-JoyInstragram(1)</summary></entry><entry><title type="html">Webhacking_Foundation(2)</title><link href="https://joyunho.github.io/Webhacking-Foundation(2)" rel="alternate" type="text/html" title="Webhacking_Foundation(2)" /><published>2021-01-24T18:25:00+09:00</published><updated>2021-01-24T18:25:00+09:00</updated><id>https://joyunho.github.io/Webhacking-Foundation(2)</id><content type="html" xml:base="https://joyunho.github.io/Webhacking-Foundation(2)">&lt;p&gt;&amp;lt;span class=”table-of-contents-list”&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Webhacking 강좌는 여러 절로 구성되어 있습니다.
-&amp;lt;/span&amp;gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;hr /&gt;</content><author><name>YunHo Jo</name></author><category term="AndroidApp" /><summary type="html">Android 강좌는 여러 절로 구성되어 있습니다. Android_App Androidapp-JoyInstragram(1)</summary></entry><entry><title type="html">Webhacking_Foundation(2)</title><link href="https://joyunho.github.io/Webhacking-Foundation(2)" rel="alternate" type="text/html" title="Webhacking_Foundation(2)" /><published>2021-01-24T18:25:00+09:00</published><updated>2021-01-24T18:25:00+09:00</updated><id>https://joyunho.github.io/Webhacking-Foundation(2)</id><content type="html" xml:base="https://joyunho.github.io/Webhacking-Foundation(2)">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;
+  Webhacking 강좌는 여러 절로 구성되어 있습니다.
+&lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
@@ -2777,93 +2783,4 @@ MySQL 설치 == DateBase Server 설치 의미&lt;br /&gt; MySQL 이라는 프로
 
 &lt;p&gt;&lt;i class=&quot;fa fa-chevron-circle-right&quot; style=&quot;color:black&quot;&gt;&lt;/i&gt; JS는 이미 만들어진 사이트에서 JS를 통해 자신에게 필요에 맞는 코드를 작성해 원하는 정보를 얻을 수 있다.&lt;/p&gt;
 
-&lt;h2 id=&quot;-end&quot;&gt;&lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bold;&quot;&gt; END&lt;/span&gt;&lt;/h2&gt;</content><author><name>YunHo Jo</name></author><category term="Webhacking" /><summary type="html">&amp;lt;span class=”table-of-contents-list” Webhacking 강좌는 여러 절로 구성되어 있습니다. &amp;lt;/span&amp;gt; Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary></entry><entry><title type="html">Webhacking_Foundation(1)</title><link href="https://joyunho.github.io/Webhacking-Foundation(1)" rel="alternate" type="text/html" title="Webhacking_Foundation(1)" /><published>2021-01-23T06:41:00+09:00</published><updated>2021-01-23T06:41:00+09:00</updated><id>https://joyunho.github.io/Webhacking-Foundation(1)</id><content type="html" xml:base="https://joyunho.github.io/Webhacking-Foundation(1)">&lt;p&gt;&amp;lt;span class=”table-of-contents-list”&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Webhacking 강좌는 여러 절로 구성되어 있습니다.
-&amp;lt;/span&amp;gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(2)&quot;&gt;Webhacking_Foundation(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(3)&quot;&gt;Webhacking_Foundation(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(4)&quot;&gt;Webhacking_Foundation(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(5)&quot;&gt;Webhacking_Foundation(5)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(6)&quot;&gt;Webhacking_Foundation(6)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(7)&quot;&gt;Webhacking_Foundation(7)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(8)&quot;&gt;Webhacking_Foundation(8)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Assemble&quot;&gt;Webhacking_Assemble&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;오늘은 세팅을 하기위해 배우기로 한 언어들에 대해 알아보겠습니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&quot;-php&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right&quot; style=&quot;color:#008080&quot;&gt;&lt;/i&gt; PHP?&lt;/h1&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-chevron-circle-right&quot; style=&quot;color:black&quot;&gt;&lt;/i&gt;
-서버측에서 해석되는 &lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bold;&quot;&gt; Script&lt;/span&gt; 언어&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-search&quot; style=&quot;color:#01077c&quot;&gt;&lt;/i&gt;&lt;mark&gt; 'Script' 라고 불리는 이유?&lt;/mark&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; 서버에서 해석되어지고, ServerSide가 쉽고 인터프리터 되기 때문에 ‘Script’ 라고 불리우는 언어중에 하나가 바로 PHP인 것이다.&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-search&quot; style=&quot;color:#01077c&quot;&gt;&lt;/i&gt;&lt;mark&gt; 사용하는 이유(장점)&lt;/mark&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; PHP언어는 오픈소스이다. 즉, 많은 개발자들에게 접근성이 높다는 의미이고, 누구든 PHP를 활용하여 작업할 수 있다.&lt;br /&gt;
-&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; 운영 비용도 저렴하게 유지가 가능하다.&lt;br /&gt;
-&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; 진입 장벽이 낮다. 개발 언어가 복잡하지 않기 때문에 보편적으로 개발자 입장에서 언어를 배우기 쉽고 간단하다. ==&amp;gt; &lt;span style=&quot;color:red;&quot;&gt;효율성과 생산성 상승&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-search&quot; style=&quot;color:#01077c&quot;&gt;&lt;/i&gt;&lt;mark&gt; PHP의 단점&lt;/mark&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; ‘안정성’ 이 낮다. ==&amp;gt; PHP의 장점인 ‘접근성’떄문에 개발자 외 다른 프로그래머가 접근하기 쉬움 (PHP7.0 이후 많이 개선되었다.)&lt;br /&gt;
-&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; 내장 함수나 인자 이름 규칙에 일관성이 없다. ==&amp;gt; 대형 웹사이트 제작에는 적합하지 않다.&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-chevron-circle-right&quot; style=&quot;color:black&quot;&gt;&lt;/i&gt;&lt;mark&gt; 결론&lt;/mark&gt; &lt;br /&gt;
-여러가지 근거에 의해 현재 PHP언어는 죽어가고 있는 추세이다. 하지만 현 시점에서는 시장에서 배제되고 있지는 않고, Webtutorial 이라는 사이트를 만드는 목적에 알맞는 언어라 생각하기 때문에 공부를 시작하게 되었다.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;-mysql&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right&quot; style=&quot;color:#008080&quot;&gt;&lt;/i&gt; MySQL?&lt;/h1&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-chevron-circle-right&quot; style=&quot;color:black&quot;&gt;&lt;/i&gt;
-&lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bold;&quot;&gt; DateBase&lt;/span&gt; 관리 시스템&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-search&quot; style=&quot;color:#01077c&quot;&gt;&lt;/i&gt;&lt;mark&gt; 사용하는 이유(장점)&lt;/mark&gt; &lt;br /&gt;
-&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; MySQL은 무료이며, 오픈소스이다.&lt;br /&gt;
-&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; 호환성이 좋다. (어떠한 운영체제에서도 사용가능) &lt;br /&gt;
-&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; 명령어 자체가 적어서 진입 장벽이 낮다. ==&amp;gt; &lt;span style=&quot;color:red;&quot;&gt;효율성과 생산성 상승&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-search&quot; style=&quot;color:#01077c&quot;&gt;&lt;/i&gt;&lt;mark&gt; MYSQL의 단점&lt;/mark&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; 깊숙히 자리 잡은 버그와 특이함&lt;br /&gt;
-&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; 관계형 테이블의 비유연성&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-chevron-circle-right&quot; style=&quot;color:black&quot;&gt;&lt;/i&gt;&lt;mark&gt; 결론&lt;/mark&gt; &lt;br /&gt;
-MYSQL에 대한 공부는 데이터 분석을 진행하기 위해 필요한 기술만큼이나 중요하다. 그 이유는 회사 업무를 하다보면 보통 데이터가 준비가 되어 있지 않으며 직접 데이터를 추출하고 정제해야 하는데 이 때 SQL을 사용한다. 또한 Webtutorial 이라는 사이트를 만드는 목적에 알맞는 언어라 생각하기 때문에 공부를 시작하게 되었다.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;-javascript&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right&quot; style=&quot;color:#008080&quot;&gt;&lt;/i&gt; JavaScript?&lt;/h1&gt;
-&lt;p&gt;&lt;i class=&quot;fa fa-chevron-circle-right&quot; style=&quot;color:black&quot;&gt;&lt;/i&gt;
-웹을 풍부하게 만들어주는 작고 가벼운 언어&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-search&quot; style=&quot;color:#01077c&quot;&gt;&lt;/i&gt;&lt;mark&gt; 사용하는 이유(장점)&lt;/mark&gt; &lt;br /&gt;
-&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; 컴파일 과정이 없어서 다른 언어와 비교했을 때 빠른 시간 안에 스크립트 코드를 작성할 수 있게 도와준다.  &lt;br /&gt;
-&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; 호환성이 좋다. (어떠한 운영체제나 플랫폼에 상관없이 사용가능) &lt;br /&gt;
-&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; 단순한 구조와 원칙을 가지고 있어서 진입 장벽이 낮다. ==&amp;gt; &lt;span style=&quot;color:red;&quot;&gt;효율성과 생산성 상승&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-search&quot; style=&quot;color:#01077c&quot;&gt;&lt;/i&gt;&lt;mark&gt; JavaScript의 단점&lt;/mark&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; 한정된 객체와 객체 함수를 제공한다.&lt;br /&gt;
-&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; 브라우저상에 소스가 노출되어서 보안에 취약하며 신경을 많이 써야한다.&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-chevron-circle-right&quot; style=&quot;color:black&quot;&gt;&lt;/i&gt;&lt;mark&gt; 결론&lt;/mark&gt; &lt;br /&gt;
-기본적으로 웹사이트 개발을 할 때 필요한 3대장 (HTML, CSS, JavaScript) 중에 하나라서 배우고 싶었고, JS가 없이 만든 사이트는 단순한 웹 문서에 지나지 않는다는 말을 듣고, Webtutorial 이라는 사이트를 만드는 목적에 알맞는 언어라 생각하기 때문에 공부를 시작하게 되었다.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;-html-css&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right&quot; style=&quot;color:#008080&quot;&gt;&lt;/i&gt; HTML, CSS&lt;/h1&gt;
-&lt;p&gt;&lt;i class=&quot;fa fa-chevron-circle-right&quot; style=&quot;color:black&quot;&gt;&lt;/i&gt;
-웹사이트의 골격과 디자인&lt;/p&gt;
-
-&lt;p&gt;이 부분은 기존에 한번 공부를 해보고 정리했던 부분이여서 블로그에 정리를 하는 것 보다 다시 동영상을 보고, 자신의 방식대로 따라한 것을 깃허브에 올리는것을 대체할 생각입니다!
-&lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bold;&quot;&gt; END&lt;/span&gt;
-—&lt;/p&gt;</content><author><name>YunHo Jo</name></author><category term="Webhacking" /><summary type="html">&amp;lt;span class=”table-of-contents-list” Webhacking 강좌는 여러 절로 구성되어 있습니다. &amp;lt;/span&amp;gt; Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary></entry></feed>
+&lt;h2 id=&quot;-end&quot;&gt;&lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bold;&quot;&gt; END&lt;/span&gt;&lt;/h2&gt;</content><author><name>YunHo Jo</name></author><category term="Webhacking" /><summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary></entry></feed>

@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://joyunho.github.io/tag/androidapp/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://joyunho.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-03-13T19:00:05+09:00</updated>
+  <updated>2021-06-01T22:29:42+09:00</updated>
   <id>https://joyunho.github.io/tag/androidapp/feed.xml</id>
 
   
@@ -30,6 +30,62 @@
   
   
 
+  
+    <entry>
+      <title type="html">YunHo-Workspace</title>
+      <link href="https://joyunho.github.io/YunHo-Workspace" rel="alternate" type="text/html" title="YunHo-Workspace" />
+      <published>2021-06-01T22:20:00+09:00</published>
+      <updated>2021-06-01T22:20:00+09:00</updated>
+      <id>https://joyunho.github.io/YunHo-Workspace</id>
+      <content type="html" xml:base="https://joyunho.github.io/YunHo-Workspace">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Android 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./Android-App&quot;&gt;Android_App&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./Androidapp-JoyInstragram(1)&quot;&gt;Androidapp-JoyInstragram(1)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/76092057/120331097-6412e480-c328-11eb-819d-53e5b1ff4c4c.jpg&quot; alt=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/76092057/120331144-6ffea680-c328-11eb-9026-beda8787575a.jpg&quot; alt=&quot;2&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/76092057/120331166-74c35a80-c328-11eb-941a-58c79f50ccbb.jpg&quot; alt=&quot;3&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/76092057/120331183-78ef7800-c328-11eb-987f-7e318df1e5c1.jpg&quot; alt=&quot;4&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/76092057/120331198-7db42c00-c328-11eb-9856-76a643fbdf5d.jpg&quot; alt=&quot;5&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;6월 -&amp;gt; HTML, CSS, 바닐라 JS ==&amp;gt; 기간 2주 + 블로그 활성화 + 일 찾아보기 및 하기 위한 개념 공부
+7월 -&amp;gt; 무료 일(프로젝트 : ex. 레스토랑 예약 사이트) 시작
+8월 -&amp;gt; 무료 일(프로젝트 : ex. 레스토랑 예약 사이트) + sqld 신청
+9월 -&amp;gt; 구직활동 시작 + 꾸준히 자신이 만든 사이트 유지 보수 :: 깃허브에 정리 + sqld 시험
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>YunHo Jo</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="AndroidApp" />
+      
+
+      
+        <summary type="html">Android 강좌는 여러 절로 구성되어 있습니다. Android_App Androidapp-JoyInstragram(1)</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Androidapp-JoyInstragram(1)</title>
