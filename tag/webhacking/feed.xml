@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://joyunho.github.io/tag/webhacking/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://joyunho.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-06-11T16:36:08+09:00</updated>
+  <updated>2021-06-11T16:39:47+09:00</updated>
   <id>https://joyunho.github.io/tag/webhacking/feed.xml</id>
 
   
@@ -37,25 +37,7 @@
       <published>2021-06-11T16:35:00+09:00</published>
       <updated>2021-06-11T16:35:00+09:00</updated>
       <id>https://joyunho.github.io/Webhacking-Assemble1</id>
-      <content type="html" xml:base="https://joyunho.github.io/Webhacking-Assemble1">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;
-  Webhacking 강좌는 여러 절로 구성되어 있습니다.
-&lt;/span&gt;&lt;/p&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(2)&quot;&gt;Webhacking_Foundation(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(3)&quot;&gt;Webhacking_Foundation(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(4)&quot;&gt;Webhacking_Foundation(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(5)&quot;&gt;Webhacking_Foundation(5)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(6)&quot;&gt;Webhacking_Foundation(6)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(7)&quot;&gt;Webhacking_Foundation(7)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(8)&quot;&gt;Webhacking_Foundation(8)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Assemble&quot;&gt;Webhacking_Assemble&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;-assemble-language&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right&quot; style=&quot;color:#008080&quot;&gt;&lt;/i&gt; Assemble Language&lt;/h1&gt;</content>
+      <content type="html" xml:base="https://joyunho.github.io/Webhacking-Assemble1">&lt;h1 id=&quot;-assemble-language&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right&quot; style=&quot;color:#008080&quot;&gt;&lt;/i&gt; Assemble Language&lt;/h1&gt;</content>
 
       
       
@@ -76,7 +58,7 @@
       
 
       
-        <summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary>
+        <summary type="html">Assemble Language</summary>
       
 
       
@@ -89,25 +71,7 @@
       <published>2021-03-13T14:45:00+09:00</published>
       <updated>2021-03-13T14:45:00+09:00</updated>
       <id>https://joyunho.github.io/Webhacking-Assemble</id>
-      <content type="html" xml:base="https://joyunho.github.io/Webhacking-Assemble">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;
-  Webhacking 강좌는 여러 절로 구성되어 있습니다.
-&lt;/span&gt;&lt;/p&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(2)&quot;&gt;Webhacking_Foundation(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(3)&quot;&gt;Webhacking_Foundation(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(4)&quot;&gt;Webhacking_Foundation(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(5)&quot;&gt;Webhacking_Foundation(5)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(6)&quot;&gt;Webhacking_Foundation(6)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(7)&quot;&gt;Webhacking_Foundation(7)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(8)&quot;&gt;Webhacking_Foundation(8)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Assemble&quot;&gt;Webhacking_Assemble&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;-assemble-language&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right&quot; style=&quot;color:#008080&quot;&gt;&lt;/i&gt; Assemble Language&lt;/h1&gt;
+      <content type="html" xml:base="https://joyunho.github.io/Webhacking-Assemble">&lt;h1 id=&quot;-assemble-language&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right&quot; style=&quot;color:#008080&quot;&gt;&lt;/i&gt; Assemble Language&lt;/h1&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -214,7 +178,7 @@ Ex. &lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bo
       
 
       
-        <summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary>
+        <summary type="html">Assemble Language</summary>
       
 
       

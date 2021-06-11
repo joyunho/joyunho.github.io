@@ -1,22 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://joyunho.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://joyunho.github.io/" rel="alternate" type="text/html" /><updated>2021-06-11T16:36:08+09:00</updated><id>https://joyunho.github.io/</id><title type="html">IT Self-Development Blog</title><subtitle>IT 공부 정리 블로그</subtitle><entry><title type="html">Webhacking_Assemble11</title><link href="https://joyunho.github.io/Webhacking-Assemble1" rel="alternate" type="text/html" title="Webhacking_Assemble11" /><published>2021-06-11T16:35:00+09:00</published><updated>2021-06-11T16:35:00+09:00</updated><id>https://joyunho.github.io/Webhacking-Assemble1</id><content type="html" xml:base="https://joyunho.github.io/Webhacking-Assemble1">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;
-  Webhacking 강좌는 여러 절로 구성되어 있습니다.
-&lt;/span&gt;&lt;/p&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(2)&quot;&gt;Webhacking_Foundation(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(3)&quot;&gt;Webhacking_Foundation(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(4)&quot;&gt;Webhacking_Foundation(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(5)&quot;&gt;Webhacking_Foundation(5)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(6)&quot;&gt;Webhacking_Foundation(6)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(7)&quot;&gt;Webhacking_Foundation(7)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(8)&quot;&gt;Webhacking_Foundation(8)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Assemble&quot;&gt;Webhacking_Assemble&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;-assemble-language&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right&quot; style=&quot;color:#008080&quot;&gt;&lt;/i&gt; Assemble Language&lt;/h1&gt;</content><author><name>YunHo Jo</name></author><category term="Webhacking" /><summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary></entry><entry><title type="html">YunHo-Workspace</title><link href="https://joyunho.github.io/YunHo-Workspace" rel="alternate" type="text/html" title="YunHo-Workspace" /><published>2021-06-01T22:20:00+09:00</published><updated>2021-06-01T22:20:00+09:00</updated><id>https://joyunho.github.io/YunHo-Workspace</id><content type="html" xml:base="https://joyunho.github.io/YunHo-Workspace">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Android 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://joyunho.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://joyunho.github.io/" rel="alternate" type="text/html" /><updated>2021-06-11T16:39:47+09:00</updated><id>https://joyunho.github.io/</id><title type="html">IT Self-Development Blog</title><subtitle>IT 공부 정리 블로그</subtitle><entry><title type="html">Webhacking_Assemble11</title><link href="https://joyunho.github.io/Webhacking-Assemble1" rel="alternate" type="text/html" title="Webhacking_Assemble11" /><published>2021-06-11T16:35:00+09:00</published><updated>2021-06-11T16:35:00+09:00</updated><id>https://joyunho.github.io/Webhacking-Assemble1</id><content type="html" xml:base="https://joyunho.github.io/Webhacking-Assemble1">&lt;h1 id=&quot;-assemble-language&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right&quot; style=&quot;color:#008080&quot;&gt;&lt;/i&gt; Assemble Language&lt;/h1&gt;</content><author><name>YunHo Jo</name></author><category term="Webhacking" /><summary type="html">Assemble Language</summary></entry><entry><title type="html">YunHo-Workspace</title><link href="https://joyunho.github.io/YunHo-Workspace" rel="alternate" type="text/html" title="YunHo-Workspace" /><published>2021-06-01T22:20:00+09:00</published><updated>2021-06-01T22:20:00+09:00</updated><id>https://joyunho.github.io/YunHo-Workspace</id><content type="html" xml:base="https://joyunho.github.io/YunHo-Workspace">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Android 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
     &lt;li&gt;&lt;a href=&quot;./Android-App&quot;&gt;Android_App&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./Androidapp-JoyInstragram(1)&quot;&gt;Androidapp-JoyInstragram(1)&lt;/a&gt;&lt;/li&gt;
@@ -51,25 +33,7 @@
 12
 13
 14
-15161718&lt;/p&gt;</content><author><name>YunHo Jo</name></author><category term="AndroidApp" /><summary type="html">Android 강좌는 여러 절로 구성되어 있습니다. Android_App Androidapp-JoyInstragram(1)</summary></entry><entry><title type="html">Webhacking_Assemble</title><link href="https://joyunho.github.io/Webhacking-Assemble" rel="alternate" type="text/html" title="Webhacking_Assemble" /><published>2021-03-13T14:45:00+09:00</published><updated>2021-03-13T14:45:00+09:00</updated><id>https://joyunho.github.io/Webhacking-Assemble</id><content type="html" xml:base="https://joyunho.github.io/Webhacking-Assemble">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;
-  Webhacking 강좌는 여러 절로 구성되어 있습니다.
-&lt;/span&gt;&lt;/p&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(2)&quot;&gt;Webhacking_Foundation(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(3)&quot;&gt;Webhacking_Foundation(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(4)&quot;&gt;Webhacking_Foundation(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(5)&quot;&gt;Webhacking_Foundation(5)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(6)&quot;&gt;Webhacking_Foundation(6)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(7)&quot;&gt;Webhacking_Foundation(7)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(8)&quot;&gt;Webhacking_Foundation(8)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Assemble&quot;&gt;Webhacking_Assemble&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;-assemble-language&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right&quot; style=&quot;color:#008080&quot;&gt;&lt;/i&gt; Assemble Language&lt;/h1&gt;
+15161718&lt;/p&gt;</content><author><name>YunHo Jo</name></author><category term="AndroidApp" /><summary type="html">Android 강좌는 여러 절로 구성되어 있습니다. Android_App Androidapp-JoyInstragram(1)</summary></entry><entry><title type="html">Webhacking_Assemble</title><link href="https://joyunho.github.io/Webhacking-Assemble" rel="alternate" type="text/html" title="Webhacking_Assemble" /><published>2021-03-13T14:45:00+09:00</published><updated>2021-03-13T14:45:00+09:00</updated><id>https://joyunho.github.io/Webhacking-Assemble</id><content type="html" xml:base="https://joyunho.github.io/Webhacking-Assemble">&lt;h1 id=&quot;-assemble-language&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right&quot; style=&quot;color:#008080&quot;&gt;&lt;/i&gt; Assemble Language&lt;/h1&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -155,7 +119,7 @@ Ex. &lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bo
     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>YunHo Jo</name></author><category term="Webhacking" /><summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary></entry><entry><title type="html">Webhacking_Foundation(8)</title><link href="https://joyunho.github.io/Webhacking-Foundation(8)" rel="alternate" type="text/html" title="Webhacking_Foundation(8)" /><published>2021-02-05T16:23:00+09:00</published><updated>2021-02-05T16:23:00+09:00</updated><id>https://joyunho.github.io/Webhacking-Foundation(8)</id><content type="html" xml:base="https://joyunho.github.io/Webhacking-Foundation(8)">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>YunHo Jo</name></author><category term="Webhacking" /><summary type="html">Assemble Language</summary></entry><entry><title type="html">Webhacking_Foundation(8)</title><link href="https://joyunho.github.io/Webhacking-Foundation(8)" rel="alternate" type="text/html" title="Webhacking_Foundation(8)" /><published>2021-02-05T16:23:00+09:00</published><updated>2021-02-05T16:23:00+09:00</updated><id>https://joyunho.github.io/Webhacking-Foundation(8)</id><content type="html" xml:base="https://joyunho.github.io/Webhacking-Foundation(8)">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;
   Webhacking 강좌는 여러 절로 구성되어 있습니다.
 &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
