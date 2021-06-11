@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://joyunho.github.io/tag/webhacking/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://joyunho.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-06-11T16:14:21+09:00</updated>
+  <updated>2021-06-11T16:36:08+09:00</updated>
   <id>https://joyunho.github.io/tag/webhacking/feed.xml</id>
 
   
@@ -30,6 +30,58 @@
   
   
 
+  
+    <entry>
+      <title type="html">Webhacking_Assemble11</title>
+      <link href="https://joyunho.github.io/Webhacking-Assemble1" rel="alternate" type="text/html" title="Webhacking_Assemble11" />
+      <published>2021-06-11T16:35:00+09:00</published>
+      <updated>2021-06-11T16:35:00+09:00</updated>
+      <id>https://joyunho.github.io/Webhacking-Assemble1</id>
+      <content type="html" xml:base="https://joyunho.github.io/Webhacking-Assemble1">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;
+  Webhacking 강좌는 여러 절로 구성되어 있습니다.
+&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(2)&quot;&gt;Webhacking_Foundation(2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(3)&quot;&gt;Webhacking_Foundation(3)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(4)&quot;&gt;Webhacking_Foundation(4)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(5)&quot;&gt;Webhacking_Foundation(5)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(6)&quot;&gt;Webhacking_Foundation(6)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(7)&quot;&gt;Webhacking_Foundation(7)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(8)&quot;&gt;Webhacking_Foundation(8)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Webhacking-Assemble&quot;&gt;Webhacking_Assemble&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;-assemble-language&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right&quot; style=&quot;color:#008080&quot;&gt;&lt;/i&gt; Assemble Language&lt;/h1&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>YunHo Jo</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Webhacking" />
+      
+
+      
+        <summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Webhacking_Assemble</title>
@@ -3154,140 +3206,6 @@ MYSQL에 대한 공부는 데이터 분석을 진행하기 위해 필요한 기�
 &lt;p&gt;이 부분은 기존에 한번 공부를 해보고 정리했던 부분이여서 블로그에 정리를 하는 것 보다 다시 동영상을 보고, 자신의 방식대로 따라한 것을 깃허브에 올리는것을 대체할 생각입니다!
 &lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bold;&quot;&gt; END&lt;/span&gt;
 —&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>YunHo Jo</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="Webhacking" />
-      
-
-      
-        <summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Webhacking_Foundation(0)</title>
-      <link href="https://joyunho.github.io/Webhacking-Foundation" rel="alternate" type="text/html" title="Webhacking_Foundation(0)" />
-      <published>2021-01-22T04:02:00+09:00</published>
-      <updated>2021-01-22T04:02:00+09:00</updated>
-      <id>https://joyunho.github.io/Webhacking-Foundation</id>
-      <content type="html" xml:base="https://joyunho.github.io/Webhacking-Foundation">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;
-  Webhacking 강좌는 여러 절로 구성되어 있습니다.
-&lt;/span&gt;&lt;/p&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(2)&quot;&gt;Webhacking_Foundation(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(3)&quot;&gt;Webhacking_Foundation(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(4)&quot;&gt;Webhacking_Foundation(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(5)&quot;&gt;Webhacking_Foundation(5)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(6)&quot;&gt;Webhacking_Foundation(6)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(7)&quot;&gt;Webhacking_Foundation(7)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(8)&quot;&gt;Webhacking_Foundation(8)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Assemble&quot;&gt;Webhacking_Assemble&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;웹해킹-기초-정리-시작&quot;&gt;&lt;mark&gt;웹해킹 기초 정리 시작!&lt;/mark&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;u&gt;HTML CSS JS MYSQL PHP 정리하기 프로젝트를 시작하겠습니다!&lt;/u&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;사용할-문법-정리&quot;&gt;사용할 문법 정리&lt;/h1&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;아이콘&quot;&gt;아이콘&lt;/h3&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-hand-o-right&quot; style=&quot;color:#008080&quot;&gt;&lt;/i&gt;
-&lt;i class=&quot;fa fa-search&quot; style=&quot;color:#01077c&quot;&gt;&lt;/i&gt;
-&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt;
-&lt;i class=&quot;fa fa-chevron-circle-right&quot; style=&quot;color:black&quot;&gt;&lt;/i&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;강조&quot;&gt;강조&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;두껍게 강조&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p style=&quot;font-weight:bold&quot;&gt;ㅋㅋ&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;인용구&quot;&gt;인용구&lt;/h3&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;인용구 활용하기&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;이미지&quot;&gt;이미지&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/76092057/105513856-2b2d8800-5d16-11eb-85f4-d28ffc9c78c5.jpg&quot; alt=&quot;blog-cover1&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;코드강조&quot;&gt;코드강조&lt;/h3&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;c&quot;&gt;&amp;lt;!-- Document Settings --&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;charset=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;utf-8&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;http-equiv=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;X-UA-Compatible&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;IE=edge&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
-
-    &lt;span class=&quot;c&quot;&gt;&amp;lt;!-- Base Meta --&amp;gt;&lt;/span&gt;
-    ... ...
-
-    &lt;span class=&quot;c&quot;&gt;&amp;lt;!-- 웹 폰트 설정 --&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt;
-      &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;stylesheet&quot;&lt;/span&gt;
-      &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://fonts.googleapis.com/earlyaccess/nanumgothic.css&quot;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
-
-    &lt;span class=&quot;c&quot;&gt;&amp;lt;!-- syntax.css --&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;stylesheet&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/built/syntax.css&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;하이라이트-표시&quot;&gt;하이라이트 표시&lt;/h3&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;code block&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;이런게 바로 &lt;code class=&quot;highlighter-rouge&quot;&gt;인라인 코드&lt;/code&gt;입니다.&lt;/p&gt;
-
-&lt;p&gt;&lt;mark&gt;하이라이트&lt;/mark&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;색깔&quot;&gt;색깔&lt;/h3&gt;
-
-&lt;p&gt;&lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bold;&quot;&gt; 글씨입니다.&lt;/span&gt;&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;foo&lt;/span&gt;
-&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'foo'&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content>
 
       
       

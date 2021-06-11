@@ -4,6 +4,22 @@
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>https://joyunho.github.io/Webhacking-Assemble1.html</loc>
+        
+        <lastmod>2021-06-11T16:35:00+09:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
         <loc>https://joyunho.github.io/YunHo-Workspace.html</loc>
         
         <lastmod>2021-06-01T22:20:00+09:00</lastmod>
