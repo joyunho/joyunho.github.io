@@ -8,27 +8,13 @@
     
       
       <item>
-        <title>Assemble11</title>
-        
-          <description>&lt;h1 id=&quot;-assemble-language&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right&quot; style=&quot;color:#008080&quot;&gt;&lt;/i&gt; Assemble Language&lt;/h1&gt;
-
-</description>
-        
-        <pubDate>Fri, 11 Jun 2021 16:35:00 +0900</pubDate>
-        <link>
-        https://joyunho.github.io/Assemble1</link>
-        <guid isPermaLink="true">https://joyunho.github.io/Assemble1</guid>
-      </item>
-      
-    
-      
-      <item>
         <title>YunHo-Workspace</title>
         
-          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Android 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;
+  Web-developer 강좌는 여러 절로 구성되어 있습니다.
+&lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;./Android-App&quot;&gt;Android_App&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./Androidapp-JoyInstragram(1)&quot;&gt;Androidapp-JoyInstragram(1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./YunHo-Workspace&quot;&gt;YunHo-Workspace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
@@ -44,7 +30,21 @@
       <item>
         <title>Assemble</title>
         
-          <description>&lt;h1 id=&quot;-assemble-language&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right&quot; style=&quot;color:#008080&quot;&gt;&lt;/i&gt; Assemble Language&lt;/h1&gt;
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;
+  Webhacking 강좌는 여러 절로 구성되어 있습니다.
+&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation&quot;&gt;Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(1)&quot;&gt;Foundation(1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(2)&quot;&gt;Foundation(2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(3)&quot;&gt;Foundation(3)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(4)&quot;&gt;Foundation(4)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(5)&quot;&gt;Foundation(5)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(6)&quot;&gt;Foundation(6)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(7)&quot;&gt;Foundation(7)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(8)&quot;&gt;Foundation(8)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Assemble&quot;&gt;Assemble&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 </description>
         
@@ -63,16 +63,16 @@
   Webhacking 강좌는 여러 절로 구성되어 있습니다.
 &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(2)&quot;&gt;Webhacking_Foundation(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(3)&quot;&gt;Webhacking_Foundation(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(4)&quot;&gt;Webhacking_Foundation(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(5)&quot;&gt;Webhacking_Foundation(5)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(6)&quot;&gt;Webhacking_Foundation(6)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(7)&quot;&gt;Webhacking_Foundation(7)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(8)&quot;&gt;Webhacking_Foundation(8)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Assemble&quot;&gt;Webhacking_Assemble&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation&quot;&gt;Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(1)&quot;&gt;Foundation(1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(2)&quot;&gt;Foundation(2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(3)&quot;&gt;Foundation(3)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(4)&quot;&gt;Foundation(4)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(5)&quot;&gt;Foundation(5)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(6)&quot;&gt;Foundation(6)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(7)&quot;&gt;Foundation(7)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(8)&quot;&gt;Foundation(8)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Assemble&quot;&gt;Assemble&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
@@ -92,16 +92,16 @@
   Webhacking 강좌는 여러 절로 구성되어 있습니다.
 &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(2)&quot;&gt;Webhacking_Foundation(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(3)&quot;&gt;Webhacking_Foundation(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(4)&quot;&gt;Webhacking_Foundation(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(5)&quot;&gt;Webhacking_Foundation(5)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(6)&quot;&gt;Webhacking_Foundation(6)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(7)&quot;&gt;Webhacking_Foundation(7)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(8)&quot;&gt;Webhacking_Foundation(8)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Assemble&quot;&gt;Webhacking_Assemble&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation&quot;&gt;Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(1)&quot;&gt;Foundation(1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(2)&quot;&gt;Foundation(2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(3)&quot;&gt;Foundation(3)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(4)&quot;&gt;Foundation(4)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(5)&quot;&gt;Foundation(5)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(6)&quot;&gt;Foundation(6)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(7)&quot;&gt;Foundation(7)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(8)&quot;&gt;Foundation(8)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Assemble&quot;&gt;Assemble&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
@@ -121,16 +121,16 @@
   Webhacking 강좌는 여러 절로 구성되어 있습니다.
 &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(2)&quot;&gt;Webhacking_Foundation(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(3)&quot;&gt;Webhacking_Foundation(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(4)&quot;&gt;Webhacking_Foundation(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(5)&quot;&gt;Webhacking_Foundation(5)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(6)&quot;&gt;Webhacking_Foundation(6)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(7)&quot;&gt;Webhacking_Foundation(7)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(8)&quot;&gt;Webhacking_Foundation(8)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Assemble&quot;&gt;Webhacking_Assemble&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation&quot;&gt;Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(1)&quot;&gt;Foundation(1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(2)&quot;&gt;Foundation(2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(3)&quot;&gt;Foundation(3)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(4)&quot;&gt;Foundation(4)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(5)&quot;&gt;Foundation(5)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(6)&quot;&gt;Foundation(6)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(7)&quot;&gt;Foundation(7)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(8)&quot;&gt;Foundation(8)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Assemble&quot;&gt;Assemble&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
@@ -150,16 +150,16 @@
   Webhacking 강좌는 여러 절로 구성되어 있습니다.
 &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(2)&quot;&gt;Webhacking_Foundation(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(3)&quot;&gt;Webhacking_Foundation(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(4)&quot;&gt;Webhacking_Foundation(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(5)&quot;&gt;Webhacking_Foundation(5)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(6)&quot;&gt;Webhacking_Foundation(6)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(7)&quot;&gt;Webhacking_Foundation(7)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(8)&quot;&gt;Webhacking_Foundation(8)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Assemble&quot;&gt;Webhacking_Assemble&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation&quot;&gt;Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(1)&quot;&gt;Foundation(1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(2)&quot;&gt;Foundation(2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(3)&quot;&gt;Foundation(3)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(4)&quot;&gt;Foundation(4)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(5)&quot;&gt;Foundation(5)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(6)&quot;&gt;Foundation(6)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(7)&quot;&gt;Foundation(7)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(8)&quot;&gt;Foundation(8)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Assemble&quot;&gt;Assemble&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
@@ -179,16 +179,16 @@
   Webhacking 강좌는 여러 절로 구성되어 있습니다.
 &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(2)&quot;&gt;Webhacking_Foundation(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(3)&quot;&gt;Webhacking_Foundation(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(4)&quot;&gt;Webhacking_Foundation(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(5)&quot;&gt;Webhacking_Foundation(5)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(6)&quot;&gt;Webhacking_Foundation(6)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(7)&quot;&gt;Webhacking_Foundation(7)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(8)&quot;&gt;Webhacking_Foundation(8)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Assemble&quot;&gt;Webhacking_Assemble&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation&quot;&gt;Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(1)&quot;&gt;Foundation(1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(2)&quot;&gt;Foundation(2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(3)&quot;&gt;Foundation(3)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(4)&quot;&gt;Foundation(4)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(5)&quot;&gt;Foundation(5)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(6)&quot;&gt;Foundation(6)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(7)&quot;&gt;Foundation(7)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(8)&quot;&gt;Foundation(8)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Assemble&quot;&gt;Assemble&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
@@ -208,16 +208,16 @@
   Webhacking 강좌는 여러 절로 구성되어 있습니다.
 &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(2)&quot;&gt;Webhacking_Foundation(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(3)&quot;&gt;Webhacking_Foundation(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(4)&quot;&gt;Webhacking_Foundation(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(5)&quot;&gt;Webhacking_Foundation(5)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(6)&quot;&gt;Webhacking_Foundation(6)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(7)&quot;&gt;Webhacking_Foundation(7)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(8)&quot;&gt;Webhacking_Foundation(8)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Assemble&quot;&gt;Webhacking_Assemble&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation&quot;&gt;Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(1)&quot;&gt;Foundation(1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(2)&quot;&gt;Foundation(2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(3)&quot;&gt;Foundation(3)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(4)&quot;&gt;Foundation(4)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(5)&quot;&gt;Foundation(5)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(6)&quot;&gt;Foundation(6)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(7)&quot;&gt;Foundation(7)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(8)&quot;&gt;Foundation(8)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Assemble&quot;&gt;Assemble&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
@@ -237,16 +237,16 @@
   Webhacking 강좌는 여러 절로 구성되어 있습니다.
 &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(2)&quot;&gt;Webhacking_Foundation(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(3)&quot;&gt;Webhacking_Foundation(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(4)&quot;&gt;Webhacking_Foundation(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(5)&quot;&gt;Webhacking_Foundation(5)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(6)&quot;&gt;Webhacking_Foundation(6)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(7)&quot;&gt;Webhacking_Foundation(7)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(8)&quot;&gt;Webhacking_Foundation(8)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Assemble&quot;&gt;Webhacking_Assemble&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation&quot;&gt;Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(1)&quot;&gt;Foundation(1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(2)&quot;&gt;Foundation(2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(3)&quot;&gt;Foundation(3)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(4)&quot;&gt;Foundation(4)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(5)&quot;&gt;Foundation(5)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(6)&quot;&gt;Foundation(6)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(7)&quot;&gt;Foundation(7)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(8)&quot;&gt;Foundation(8)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Assemble&quot;&gt;Assemble&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
@@ -266,16 +266,16 @@
   Webhacking 강좌는 여러 절로 구성되어 있습니다.
 &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(2)&quot;&gt;Webhacking_Foundation(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(3)&quot;&gt;Webhacking_Foundation(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(4)&quot;&gt;Webhacking_Foundation(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(5)&quot;&gt;Webhacking_Foundation(5)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(6)&quot;&gt;Webhacking_Foundation(6)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(7)&quot;&gt;Webhacking_Foundation(7)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(8)&quot;&gt;Webhacking_Foundation(8)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Assemble&quot;&gt;Webhacking_Assemble&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation&quot;&gt;Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(1)&quot;&gt;Foundation(1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(2)&quot;&gt;Foundation(2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(3)&quot;&gt;Foundation(3)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(4)&quot;&gt;Foundation(4)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(5)&quot;&gt;Foundation(5)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(6)&quot;&gt;Foundation(6)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(7)&quot;&gt;Foundation(7)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(8)&quot;&gt;Foundation(8)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Assemble&quot;&gt;Assemble&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
@@ -295,16 +295,16 @@
   Webhacking 강좌는 여러 절로 구성되어 있습니다.
 &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(2)&quot;&gt;Webhacking_Foundation(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(3)&quot;&gt;Webhacking_Foundation(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(4)&quot;&gt;Webhacking_Foundation(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(5)&quot;&gt;Webhacking_Foundation(5)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(6)&quot;&gt;Webhacking_Foundation(6)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(7)&quot;&gt;Webhacking_Foundation(7)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(8)&quot;&gt;Webhacking_Foundation(8)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Assemble&quot;&gt;Webhacking_Assemble&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation&quot;&gt;Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(1)&quot;&gt;Foundation(1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(2)&quot;&gt;Foundation(2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(3)&quot;&gt;Foundation(3)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(4)&quot;&gt;Foundation(4)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(5)&quot;&gt;Foundation(5)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(6)&quot;&gt;Foundation(6)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(7)&quot;&gt;Foundation(7)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(8)&quot;&gt;Foundation(8)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Assemble&quot;&gt;Assemble&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
@@ -313,25 +313,6 @@
         <link>
         https://joyunho.github.io/Foundation</link>
         <guid isPermaLink="true">https://joyunho.github.io/Foundation</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Android_App</title>
-        
-          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Android 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;./Android-App&quot;&gt;Android_App&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./Androidapp-JoyInstragram(1)&quot;&gt;Androidapp-JoyInstragram(1)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        
-        <pubDate>Fri, 22 Jan 2021 03:59:00 +0900</pubDate>
-        <link>
-        https://joyunho.github.io/Android-App</link>
-        <guid isPermaLink="true">https://joyunho.github.io/Android-App</guid>
       </item>
       
     

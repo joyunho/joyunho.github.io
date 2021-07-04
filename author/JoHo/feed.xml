@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://joyunho.github.io/author/JoHo/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://joyunho.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-07-03T00:05:11+09:00</updated>
+  <updated>2021-07-04T10:51:16+09:00</updated>
   <id>https://joyunho.github.io/author/JoHo/feed.xml</id>
 
   
@@ -32,51 +32,16 @@
 
   
     <entry>
-      <title type="html">Assemble11</title>
-      <link href="https://joyunho.github.io/Assemble1" rel="alternate" type="text/html" title="Assemble11" />
-      <published>2021-06-11T16:35:00+09:00</published>
-      <updated>2021-06-11T16:35:00+09:00</updated>
-      <id>https://joyunho.github.io/Assemble1</id>
-      <content type="html" xml:base="https://joyunho.github.io/Assemble1">&lt;h1 id=&quot;-assemble-language&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right&quot; style=&quot;color:#008080&quot;&gt;&lt;/i&gt; Assemble Language&lt;/h1&gt;
-
-&lt;p&gt;xx&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>YunHo Jo</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="Web-hacking" />
-      
-
-      
-        <summary type="html">Assemble Language</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
       <title type="html">YunHo-Workspace</title>
       <link href="https://joyunho.github.io/YunHo-Workspace" rel="alternate" type="text/html" title="YunHo-Workspace" />
       <published>2021-06-01T22:20:00+09:00</published>
       <updated>2021-06-01T22:20:00+09:00</updated>
       <id>https://joyunho.github.io/YunHo-Workspace</id>
-      <content type="html" xml:base="https://joyunho.github.io/YunHo-Workspace">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Android 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+      <content type="html" xml:base="https://joyunho.github.io/YunHo-Workspace">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;
+  Web-developer 강좌는 여러 절로 구성되어 있습니다.
+&lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;./Android-App&quot;&gt;Android_App&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./Androidapp-JoyInstragram(1)&quot;&gt;Androidapp-JoyInstragram(1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./YunHo-Workspace&quot;&gt;YunHo-Workspace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -127,11 +92,11 @@
       
 
       
-        <category term="AndroidApp" />
+        <category term="Web-developer" />
       
 
       
-        <summary type="html">Android 강좌는 여러 절로 구성되어 있습니다. Android_App Androidapp-JoyInstragram(1)</summary>
+        <summary type="html">Web-developer 강좌는 여러 절로 구성되어 있습니다. YunHo-Workspace</summary>
       
 
       
@@ -144,7 +109,23 @@
       <published>2021-03-13T14:45:00+09:00</published>
       <updated>2021-03-13T14:45:00+09:00</updated>
       <id>https://joyunho.github.io/Assemble</id>
-      <content type="html" xml:base="https://joyunho.github.io/Assemble">&lt;h1 id=&quot;-assemble-language&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right&quot; style=&quot;color:#008080&quot;&gt;&lt;/i&gt; Assemble Language&lt;/h1&gt;
+      <content type="html" xml:base="https://joyunho.github.io/Assemble">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;
+  Webhacking 강좌는 여러 절로 구성되어 있습니다.
+&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation&quot;&gt;Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(1)&quot;&gt;Foundation(1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(2)&quot;&gt;Foundation(2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(3)&quot;&gt;Foundation(3)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(4)&quot;&gt;Foundation(4)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(5)&quot;&gt;Foundation(5)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(6)&quot;&gt;Foundation(6)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(7)&quot;&gt;Foundation(7)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(8)&quot;&gt;Foundation(8)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Assemble&quot;&gt;Assemble&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;-assemble-language&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right&quot; style=&quot;color:#008080&quot;&gt;&lt;/i&gt; Assemble Language&lt;/h1&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -251,7 +232,7 @@ Ex. &lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bo
       
 
       
-        <summary type="html">Assemble Language</summary>
+        <summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Foundation Foundation(1) Foundation(2) Foundation(3) Foundation(4) Foundation(5) Foundation(6) Foundation(7) Foundation(8) Assemble</summary>
       
 
       
@@ -268,16 +249,16 @@ Ex. &lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bo
   Webhacking 강좌는 여러 절로 구성되어 있습니다.
 &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(2)&quot;&gt;Webhacking_Foundation(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(3)&quot;&gt;Webhacking_Foundation(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(4)&quot;&gt;Webhacking_Foundation(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(5)&quot;&gt;Webhacking_Foundation(5)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(6)&quot;&gt;Webhacking_Foundation(6)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(7)&quot;&gt;Webhacking_Foundation(7)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(8)&quot;&gt;Webhacking_Foundation(8)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Assemble&quot;&gt;Webhacking_Assemble&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation&quot;&gt;Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(1)&quot;&gt;Foundation(1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(2)&quot;&gt;Foundation(2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(3)&quot;&gt;Foundation(3)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(4)&quot;&gt;Foundation(4)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(5)&quot;&gt;Foundation(5)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(6)&quot;&gt;Foundation(6)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(7)&quot;&gt;Foundation(7)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(8)&quot;&gt;Foundation(8)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Assemble&quot;&gt;Assemble&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -311,7 +292,7 @@ Ex. &lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bo
       
 
       
-        <summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary>
+        <summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Foundation Foundation(1) Foundation(2) Foundation(3) Foundation(4) Foundation(5) Foundation(6) Foundation(7) Foundation(8) Assemble</summary>
       
 
       
@@ -328,16 +309,16 @@ Ex. &lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bo
   Webhacking 강좌는 여러 절로 구성되어 있습니다.
 &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(2)&quot;&gt;Webhacking_Foundation(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(3)&quot;&gt;Webhacking_Foundation(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(4)&quot;&gt;Webhacking_Foundation(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(5)&quot;&gt;Webhacking_Foundation(5)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(6)&quot;&gt;Webhacking_Foundation(6)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(7)&quot;&gt;Webhacking_Foundation(7)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(8)&quot;&gt;Webhacking_Foundation(8)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Assemble&quot;&gt;Webhacking_Assemble&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation&quot;&gt;Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(1)&quot;&gt;Foundation(1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(2)&quot;&gt;Foundation(2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(3)&quot;&gt;Foundation(3)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(4)&quot;&gt;Foundation(4)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(5)&quot;&gt;Foundation(5)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(6)&quot;&gt;Foundation(6)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(7)&quot;&gt;Foundation(7)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(8)&quot;&gt;Foundation(8)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Assemble&quot;&gt;Assemble&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -1262,7 +1243,7 @@ ex3.html에 기능하는 부분을 함수로 만들면 이러한 기능을 손�
       
 
       
-        <summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary>
+        <summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Foundation Foundation(1) Foundation(2) Foundation(3) Foundation(4) Foundation(5) Foundation(6) Foundation(7) Foundation(8) Assemble</summary>
       
 
       
@@ -1279,16 +1260,16 @@ ex3.html에 기능하는 부분을 함수로 만들면 이러한 기능을 손�
   Webhacking 강좌는 여러 절로 구성되어 있습니다.
 &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(2)&quot;&gt;Webhacking_Foundation(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(3)&quot;&gt;Webhacking_Foundation(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(4)&quot;&gt;Webhacking_Foundation(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(5)&quot;&gt;Webhacking_Foundation(5)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(6)&quot;&gt;Webhacking_Foundation(6)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(7)&quot;&gt;Webhacking_Foundation(7)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(8)&quot;&gt;Webhacking_Foundation(8)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Assemble&quot;&gt;Webhacking_Assemble&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation&quot;&gt;Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(1)&quot;&gt;Foundation(1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(2)&quot;&gt;Foundation(2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(3)&quot;&gt;Foundation(3)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(4)&quot;&gt;Foundation(4)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(5)&quot;&gt;Foundation(5)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(6)&quot;&gt;Foundation(6)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(7)&quot;&gt;Foundation(7)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(8)&quot;&gt;Foundation(8)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Assemble&quot;&gt;Assemble&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -1506,13 +1487,11 @@ index.php에서 함수를 이용하면 본문 코드 내용을 보기 간편하�
 데이터가 중복된다라는 의미는 퍼포먼스와 유지보수의 측면에서 개선의 여지가 있다는 강력한 증거이므로, 이떄 관계형 DB를 사용하면 별도의 참조 테이블을 만들어 쉽게 관리할 수 있다.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;mark&gt;기존의 테이블&lt;/mark&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/76092057/106650930-cfe17c80-65d6-11eb-8b92-0dbbb7d8d803.PNG&quot; alt=&quot;MySQL 관계형 DB&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;mark&gt;기존의 테이블&lt;/mark&gt; &amp;gt; &lt;img src=&quot;https://user-images.githubusercontent.com/76092057/106650930-cfe17c80-65d6-11eb-8b92-0dbbb7d8d803.PNG&quot; alt=&quot;MySQL 관계형 DB&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;mark&gt;중복되는 데이터를 분리한 테이블&lt;/mark&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/76092057/106651023-f1426880-65d6-11eb-84d3-d372832ec462.PNG&quot; alt=&quot;MySQL 관계형 DB(2)&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
+  &lt;p&gt;&lt;mark&gt;중복되는 데이터를 분리한 테이블&lt;/mark&gt; &amp;gt; &lt;img src=&quot;https://user-images.githubusercontent.com/76092057/106651023-f1426880-65d6-11eb-84d3-d372832ec462.PNG&quot; alt=&quot;MySQL 관계형 DB(2)&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
 &lt;img src=&quot;https://user-images.githubusercontent.com/76092057/106651063-fd2e2a80-65d6-11eb-9a76-3750694c2aad.PNG&quot; alt=&quot;MySQL 관계형 DB(1)&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -1787,7 +1766,7 @@ ex3.html 파일을 활용하여 링크의 색을 바꾸려고 한다.&lt;/p&gt;
       
 
       
-        <summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary>
+        <summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Foundation Foundation(1) Foundation(2) Foundation(3) Foundation(4) Foundation(5) Foundation(6) Foundation(7) Foundation(8) Assemble</summary>
       
 
       
@@ -1804,16 +1783,16 @@ ex3.html 파일을 활용하여 링크의 색을 바꾸려고 한다.&lt;/p&gt;
   Webhacking 강좌는 여러 절로 구성되어 있습니다.
 &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(2)&quot;&gt;Webhacking_Foundation(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(3)&quot;&gt;Webhacking_Foundation(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(4)&quot;&gt;Webhacking_Foundation(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(5)&quot;&gt;Webhacking_Foundation(5)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(6)&quot;&gt;Webhacking_Foundation(6)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(7)&quot;&gt;Webhacking_Foundation(7)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(8)&quot;&gt;Webhacking_Foundation(8)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Assemble&quot;&gt;Webhacking_Assemble&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation&quot;&gt;Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(1)&quot;&gt;Foundation(1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(2)&quot;&gt;Foundation(2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(3)&quot;&gt;Foundation(3)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(4)&quot;&gt;Foundation(4)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(5)&quot;&gt;Foundation(5)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(6)&quot;&gt;Foundation(6)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(7)&quot;&gt;Foundation(7)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(8)&quot;&gt;Foundation(8)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Assemble&quot;&gt;Assemble&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -2409,7 +2388,7 @@ ex.3 파일을 활용하여 리팩토링하기&lt;/p&gt;
       
 
       
-        <summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary>
+        <summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Foundation Foundation(1) Foundation(2) Foundation(3) Foundation(4) Foundation(5) Foundation(6) Foundation(7) Foundation(8) Assemble</summary>
       
 
       
@@ -2426,16 +2405,16 @@ ex.3 파일을 활용하여 리팩토링하기&lt;/p&gt;
   Webhacking 강좌는 여러 절로 구성되어 있습니다.
 &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(2)&quot;&gt;Webhacking_Foundation(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(3)&quot;&gt;Webhacking_Foundation(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(4)&quot;&gt;Webhacking_Foundation(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(5)&quot;&gt;Webhacking_Foundation(5)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(6)&quot;&gt;Webhacking_Foundation(6)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(7)&quot;&gt;Webhacking_Foundation(7)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(8)&quot;&gt;Webhacking_Foundation(8)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Assemble&quot;&gt;Webhacking_Assemble&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation&quot;&gt;Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(1)&quot;&gt;Foundation(1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(2)&quot;&gt;Foundation(2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(3)&quot;&gt;Foundation(3)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(4)&quot;&gt;Foundation(4)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(5)&quot;&gt;Foundation(5)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(6)&quot;&gt;Foundation(6)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(7)&quot;&gt;Foundation(7)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(8)&quot;&gt;Foundation(8)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Assemble&quot;&gt;Assemble&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -2768,7 +2747,7 @@ FROM 테이블이름        // SELECT 구문 형식
       
 
       
-        <summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary>
+        <summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Foundation Foundation(1) Foundation(2) Foundation(3) Foundation(4) Foundation(5) Foundation(6) Foundation(7) Foundation(8) Assemble</summary>
       
 
       
@@ -2785,16 +2764,16 @@ FROM 테이블이름        // SELECT 구문 형식
   Webhacking 강좌는 여러 절로 구성되어 있습니다.
 &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(2)&quot;&gt;Webhacking_Foundation(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(3)&quot;&gt;Webhacking_Foundation(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(4)&quot;&gt;Webhacking_Foundation(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(5)&quot;&gt;Webhacking_Foundation(5)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(6)&quot;&gt;Webhacking_Foundation(6)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(7)&quot;&gt;Webhacking_Foundation(7)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(8)&quot;&gt;Webhacking_Foundation(8)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Assemble&quot;&gt;Webhacking_Assemble&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation&quot;&gt;Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(1)&quot;&gt;Foundation(1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(2)&quot;&gt;Foundation(2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(3)&quot;&gt;Foundation(3)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(4)&quot;&gt;Foundation(4)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(5)&quot;&gt;Foundation(5)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(6)&quot;&gt;Foundation(6)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(7)&quot;&gt;Foundation(7)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(8)&quot;&gt;Foundation(8)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Assemble&quot;&gt;Assemble&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -3031,7 +3010,7 @@ GET 메소드를 이용하여 PHP 코드를 만든 다음, URL 파라미터에 �
       
 
       
-        <summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary>
+        <summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Foundation Foundation(1) Foundation(2) Foundation(3) Foundation(4) Foundation(5) Foundation(6) Foundation(7) Foundation(8) Assemble</summary>
       
 
       
@@ -3048,16 +3027,16 @@ GET 메소드를 이용하여 PHP 코드를 만든 다음, URL 파라미터에 �
   Webhacking 강좌는 여러 절로 구성되어 있습니다.
 &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation&quot;&gt;Webhacking_Foundation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(1)&quot;&gt;Webhacking_Foundation(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(2)&quot;&gt;Webhacking_Foundation(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(3)&quot;&gt;Webhacking_Foundation(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(4)&quot;&gt;Webhacking_Foundation(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(5)&quot;&gt;Webhacking_Foundation(5)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(6)&quot;&gt;Webhacking_Foundation(6)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(7)&quot;&gt;Webhacking_Foundation(7)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Foundation(8)&quot;&gt;Webhacking_Foundation(8)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;./Webhacking-Assemble&quot;&gt;Webhacking_Assemble&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation&quot;&gt;Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(1)&quot;&gt;Foundation(1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(2)&quot;&gt;Foundation(2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(3)&quot;&gt;Foundation(3)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(4)&quot;&gt;Foundation(4)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(5)&quot;&gt;Foundation(5)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(6)&quot;&gt;Foundation(6)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(7)&quot;&gt;Foundation(7)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(8)&quot;&gt;Foundation(8)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Assemble&quot;&gt;Assemble&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -3266,7 +3245,131 @@ MySQL 설치 == DateBase Server 설치 의미&lt;br /&gt; MySQL 이라는 프로
       
 
       
-        <summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Webhacking_Foundation Webhacking_Foundation(1) Webhacking_Foundation(2) Webhacking_Foundation(3) Webhacking_Foundation(4) Webhacking_Foundation(5) Webhacking_Foundation(6) Webhacking_Foundation(7) Webhacking_Foundation(8) Webhacking_Assemble</summary>
+        <summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Foundation Foundation(1) Foundation(2) Foundation(3) Foundation(4) Foundation(5) Foundation(6) Foundation(7) Foundation(8) Assemble</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Foundation(1)</title>
+      <link href="https://joyunho.github.io/Foundation(1)" rel="alternate" type="text/html" title="Foundation(1)" />
+      <published>2021-01-23T06:41:00+09:00</published>
+      <updated>2021-01-23T06:41:00+09:00</updated>
+      <id>https://joyunho.github.io/Foundation(1)</id>
+      <content type="html" xml:base="https://joyunho.github.io/Foundation(1)">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;
+  Webhacking 강좌는 여러 절로 구성되어 있습니다.
+&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation&quot;&gt;Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(1)&quot;&gt;Foundation(1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(2)&quot;&gt;Foundation(2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(3)&quot;&gt;Foundation(3)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(4)&quot;&gt;Foundation(4)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(5)&quot;&gt;Foundation(5)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(6)&quot;&gt;Foundation(6)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(7)&quot;&gt;Foundation(7)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Foundation(8)&quot;&gt;Foundation(8)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Assemble&quot;&gt;Assemble&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;오늘은 세팅을 하기위해 배우기로 한 언어들에 대해 알아보겠습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;-php&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right&quot; style=&quot;color:#008080&quot;&gt;&lt;/i&gt; PHP?&lt;/h1&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-chevron-circle-right&quot; style=&quot;color:black&quot;&gt;&lt;/i&gt;
+서버측에서 해석되는 &lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bold;&quot;&gt; Script&lt;/span&gt; 언어&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-search&quot; style=&quot;color:#01077c&quot;&gt;&lt;/i&gt;&lt;mark&gt; 'Script' 라고 불리는 이유?&lt;/mark&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; 서버에서 해석되어지고, ServerSide가 쉽고 인터프리터 되기 때문에 ‘Script’ 라고 불리우는 언어중에 하나가 바로 PHP인 것이다.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-search&quot; style=&quot;color:#01077c&quot;&gt;&lt;/i&gt;&lt;mark&gt; 사용하는 이유(장점)&lt;/mark&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; PHP언어는 오픈소스이다. 즉, 많은 개발자들에게 접근성이 높다는 의미이고, 누구든 PHP를 활용하여 작업할 수 있다.&lt;br /&gt;
+&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; 운영 비용도 저렴하게 유지가 가능하다.&lt;br /&gt;
+&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; 진입 장벽이 낮다. 개발 언어가 복잡하지 않기 때문에 보편적으로 개발자 입장에서 언어를 배우기 쉽고 간단하다. ==&amp;gt; &lt;span style=&quot;color:red;&quot;&gt;효율성과 생산성 상승&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-search&quot; style=&quot;color:#01077c&quot;&gt;&lt;/i&gt;&lt;mark&gt; PHP의 단점&lt;/mark&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; ‘안정성’ 이 낮다. ==&amp;gt; PHP의 장점인 ‘접근성’떄문에 개발자 외 다른 프로그래머가 접근하기 쉬움 (PHP7.0 이후 많이 개선되었다.)&lt;br /&gt;
+&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; 내장 함수나 인자 이름 규칙에 일관성이 없다. ==&amp;gt; 대형 웹사이트 제작에는 적합하지 않다.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-chevron-circle-right&quot; style=&quot;color:black&quot;&gt;&lt;/i&gt;&lt;mark&gt; 결론&lt;/mark&gt;&lt;br /&gt;
+여러가지 근거에 의해 현재 PHP언어는 죽어가고 있는 추세이다. 하지만 현 시점에서는 시장에서 배제되고 있지는 않고, Webtutorial 이라는 사이트를 만드는 목적에 알맞는 언어라 생각하기 때문에 공부를 시작하게 되었다.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;-mysql&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right&quot; style=&quot;color:#008080&quot;&gt;&lt;/i&gt; MySQL?&lt;/h1&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-chevron-circle-right&quot; style=&quot;color:black&quot;&gt;&lt;/i&gt;
+&lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bold;&quot;&gt; DateBase&lt;/span&gt; 관리 시스템&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-search&quot; style=&quot;color:#01077c&quot;&gt;&lt;/i&gt;&lt;mark&gt; 사용하는 이유(장점)&lt;/mark&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; MySQL은 무료이며, 오픈소스이다.&lt;br /&gt;
+&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; 호환성이 좋다. (어떠한 운영체제에서도 사용가능)&lt;br /&gt;
+&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; 명령어 자체가 적어서 진입 장벽이 낮다. ==&amp;gt; &lt;span style=&quot;color:red;&quot;&gt;효율성과 생산성 상승&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-search&quot; style=&quot;color:#01077c&quot;&gt;&lt;/i&gt;&lt;mark&gt; MYSQL의 단점&lt;/mark&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; 깊숙히 자리 잡은 버그와 특이함&lt;br /&gt;
+&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; 관계형 테이블의 비유연성&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-chevron-circle-right&quot; style=&quot;color:black&quot;&gt;&lt;/i&gt;&lt;mark&gt; 결론&lt;/mark&gt;&lt;br /&gt;
+MYSQL에 대한 공부는 데이터 분석을 진행하기 위해 필요한 기술만큼이나 중요하다. 그 이유는 회사 업무를 하다보면 보통 데이터가 준비가 되어 있지 않으며 직접 데이터를 추출하고 정제해야 하는데 이 때 SQL을 사용한다. 또한 Webtutorial 이라는 사이트를 만드는 목적에 알맞는 언어라 생각하기 때문에 공부를 시작하게 되었다.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;-javascript&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right&quot; style=&quot;color:#008080&quot;&gt;&lt;/i&gt; JavaScript?&lt;/h1&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-chevron-circle-right&quot; style=&quot;color:black&quot;&gt;&lt;/i&gt;
+웹을 풍부하게 만들어주는 작고 가벼운 언어&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-search&quot; style=&quot;color:#01077c&quot;&gt;&lt;/i&gt;&lt;mark&gt; 사용하는 이유(장점)&lt;/mark&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; 컴파일 과정이 없어서 다른 언어와 비교했을 때 빠른 시간 안에 스크립트 코드를 작성할 수 있게 도와준다.&lt;br /&gt;
+&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; 호환성이 좋다. (어떠한 운영체제나 플랫폼에 상관없이 사용가능)&lt;br /&gt;
+&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; 단순한 구조와 원칙을 가지고 있어서 진입 장벽이 낮다. ==&amp;gt; &lt;span style=&quot;color:red;&quot;&gt;효율성과 생산성 상승&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-search&quot; style=&quot;color:#01077c&quot;&gt;&lt;/i&gt;&lt;mark&gt; JavaScript의 단점&lt;/mark&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; 한정된 객체와 객체 함수를 제공한다.&lt;br /&gt;
+&lt;i class=&quot;fa fa-envelope-o&quot; style=&quot;color:red&quot;&gt;&lt;/i&gt; 브라우저상에 소스가 노출되어서 보안에 취약하며 신경을 많이 써야한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-chevron-circle-right&quot; style=&quot;color:black&quot;&gt;&lt;/i&gt;&lt;mark&gt; 결론&lt;/mark&gt;&lt;br /&gt;
+기본적으로 웹사이트 개발을 할 때 필요한 3대장 (HTML, CSS, JavaScript) 중에 하나라서 배우고 싶었고, JS가 없이 만든 사이트는 단순한 웹 문서에 지나지 않는다는 말을 듣고, Webtutorial 이라는 사이트를 만드는 목적에 알맞는 언어라 생각하기 때문에 공부를 시작하게 되었다.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;-html-css&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right&quot; style=&quot;color:#008080&quot;&gt;&lt;/i&gt; HTML, CSS&lt;/h1&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-chevron-circle-right&quot; style=&quot;color:black&quot;&gt;&lt;/i&gt;
+웹사이트의 골격과 디자인&lt;/p&gt;
+
+&lt;p&gt;이 부분은 기존에 한번 공부를 해보고 정리했던 부분이여서 블로그에 정리를 하는 것 보다 다시 동영상을 보고, 자신의 방식대로 따라한 것을 깃허브에 올리는것을 대체할 생각입니다!
+&lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bold;&quot;&gt; END&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>YunHo Jo</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Web-hacking" />
+      
+
+      
+        <summary type="html">Webhacking 강좌는 여러 절로 구성되어 있습니다. Foundation Foundation(1) Foundation(2) Foundation(3) Foundation(4) Foundation(5) Foundation(6) Foundation(7) Foundation(8) Assemble</summary>
       
 
       
