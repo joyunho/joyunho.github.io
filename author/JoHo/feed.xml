@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://joyunho.github.io/author/JoHo/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://joyunho.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-07-19T14:11:33+09:00</updated>
+  <updated>2021-07-19T16:50:08+09:00</updated>
   <id>https://joyunho.github.io/author/JoHo/feed.xml</id>
 
   
@@ -32,21 +32,47 @@
 
   
     <entry>
-      <title type="html">first</title>
-      <link href="https://joyunho.github.io/first" rel="alternate" type="text/html" title="first" />
+      <title type="html">Browser</title>
+      <link href="https://joyunho.github.io/Browser" rel="alternate" type="text/html" title="Browser" />
       <published>2021-07-19T13:46:00+09:00</published>
       <updated>2021-07-19T13:46:00+09:00</updated>
-      <id>https://joyunho.github.io/first</id>
-      <content type="html" xml:base="https://joyunho.github.io/first">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;
+      <id>https://joyunho.github.io/Browser</id>
+      <content type="html" xml:base="https://joyunho.github.io/Browser">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;
   Computer-science-theory 강좌는 여러 절로 구성되어 있습니다.
 &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;./first&quot;&gt;first&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;./Browser&quot;&gt;Browser&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;ㅋㅋㅋ&lt;/p&gt;</content>
+&lt;h1 id=&quot;-browser&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right&quot; style=&quot;color:#008080&quot;&gt;&lt;/i&gt; Browser?&lt;/h1&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-chevron-circle-right&quot; style=&quot;color:black&quot;&gt;&lt;/i&gt;
+웹 표준화 기구인 &lt;span style=&quot;color:#ff9b15; background-color:#2b2b2b; font-weight:bold;&quot;&gt;W3C&lt;/span&gt; 에서 정한 HTML과 CSS 명세에 따라 HTML 파일을 해석해서 사용자가 선택한 자원을 서버에 요청하고 브라우저에 표시하는 응용 프로그램의 총칭&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h1 id=&quot;브라우저-기본-구조&quot;&gt;&lt;mark&gt;브라우저 기본 구조&lt;/mark&gt;&lt;/h1&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/76092057/126120714-bb439612-da19-4618-b9fc-7113411d7e63.png&quot; alt=&quot;브라우저 주요 구성 요소&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt; &amp;lt;출처 : https://d2.naver.com/helloworld/59361&amp;gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;사용자 인터페이스&lt;br /&gt;
+=&amp;gt; 요청한 페이지를 보여주는 창을 제외한 모든 부분을 의미&lt;/li&gt;
+  &lt;li&gt;브라우저 엔진&lt;br /&gt;
+=&amp;gt; 사용자 인터페이스와 렌더링 엔진 사이의 동작을 제어&lt;/li&gt;
+  &lt;li&gt;렌더링 엔진&lt;br /&gt;
+=&amp;gt; 요청한 콘텐츠를 표시&lt;/li&gt;
+  &lt;li&gt;통신&lt;br /&gt;
+=&amp;gt; HTTP 요청과 같은 네트워크 호출에 사용&lt;/li&gt;
+  &lt;li&gt;UI 백엔드&lt;br /&gt;
+=&amp;gt;&lt;/li&gt;
+  &lt;li&gt;자바스크립트 해석기&lt;br /&gt;
+=&amp;gt; 자사스크립트 코드를 해석하고 실행&lt;/li&gt;
+  &lt;li&gt;자료 저장소&lt;br /&gt;
+=&amp;gt; 자료를 저장하는 계층, 모든 종류의 자원을 하드 디스크에 저장할 필요가 있고, HTML5 명세에는 브라우저가 지원하는 ‘웹 데이터 베이스’가 정의되어 있다.&lt;/li&gt;
+&lt;/ol&gt;</content>
 
       
       
@@ -67,7 +93,7 @@
       
 
       
-        <summary type="html">Computer-science-theory 강좌는 여러 절로 구성되어 있습니다. first</summary>
+        <summary type="html">Computer-science-theory 강좌는 여러 절로 구성되어 있습니다. Browser</summary>
       
 
       
